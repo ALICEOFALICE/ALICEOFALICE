@@ -4,6 +4,10 @@
 <h2>原神计数器</h2>
 <img src="https://genshin-card.getloli.com/17/20934997.png"><br>
 </th>
+<th>
+<h2>原神计数器</h2>
+<img src="https://genshin-card.getloli.com/17/20934997.png"><br>
+</th>
 </tr>
 </table>
 
