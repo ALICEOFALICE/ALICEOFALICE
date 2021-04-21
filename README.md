@@ -44,7 +44,7 @@ Welcome to my Github page
 <!-- steam-box end -->
 </td>
 <td valign="top" width="50%">
-<h2>最近工作状态</h2>
+<h2>工作状态</h2>
  
 <!-- waka-box start -->
 <!-- waka-box end -->
