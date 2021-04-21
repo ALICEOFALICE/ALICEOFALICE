@@ -1,5 +1,5 @@
-<h1>Info</h1>
-
+<h1>Welcome</h1>
+Welcome to my home page
 
 <h2>OS&Tools<h2>
 <img src = "https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff">
