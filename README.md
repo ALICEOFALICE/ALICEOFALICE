@@ -1,13 +1,13 @@
 <table>
 <tr>
-<th>
+<td valign="top" width="50%">
 <h2>原神计数器</h2>
 <img src="https://genshin-card.getloli.com/17/20934997.png"><br>
-</th>
-<th>
+</td>
+<td valign="top" width="50%">
 <h2>原神计数器</h2>
 <img src="https://genshin-card.getloli.com/17/20934997.png"><br>
-</th>
+</td>
 </tr>
 </table>
 
