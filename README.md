@@ -12,4 +12,9 @@
 <!-- steam-box end -->
 # 工作状态
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">📊 Weekly development breakdown</a>
+```text
+HTML 🕓 0s █████████████████████████████████████100.0%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
