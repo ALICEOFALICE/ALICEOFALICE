@@ -9,10 +9,6 @@ Welcome to my home page
 ![](https://img.shields.io/badge/JetBrains-PhpStorm-9933cc?style=flat-square&logo=PhpStorm&logoColor=#66ff00)
 ![](https://img.shields.io/badge/Microsoft-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-## Web&Webtool
-
-[![](https://img.shields.io/badge/Blog-DEV-0000?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://dev.loli.fit)
-[![](https://img.shields.io/badge/Blog-Main-0000?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://blog.loli.fit/)
 
 ## Counter
 
@@ -47,7 +43,7 @@ Welcome to my home page
 <h2>最近工作状态</h2>
  
 <!-- waka-box start -->
-📊 Weekly development breakdown
+#### <a href="https://gist.github.com/28a351d91c5d3671b02ab27601584b0c" target="_blank">📊 Weekly development breakdown</a>
 ```text
 HTML 🕓 0s █████████████████████████████████████100.0%
 ```
