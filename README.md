@@ -17,7 +17,6 @@
 </td>
   <h2>工作状态</h2>
 <td valign="top" width="50%">
-
 <!-- waka-box start -->
 <!-- waka-box end -->
 </tr>
