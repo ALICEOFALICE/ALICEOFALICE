@@ -1,8 +1,9 @@
+<h2>原神计数器</h2>
+<img src="https://genshin-card.getloli.com/17/20934997.png" width = "400px" height = "173.77px"><br>
 <table>
 <tr>
 <td valign="top" width="50%">
-<h2>原神计数器</h2>
-<img src="https://genshin-card.getloli.com/17/20934997.png" width = "400px" height = "173.77px"><br>
+
 </td>
 <td valign="top" width="50%">
  
