@@ -1,5 +1,6 @@
 <h1>Info</h1>
-<hr>
+
+
 <h2>OS&Tools<h2>
 <img src = "https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff">
 <img src = "https://img.shields.io/badge/OS-centos%20Linux-33aadd?style=flat-square&logo=Centos&logoColor=ffffff"><table>
