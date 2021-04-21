@@ -2,7 +2,7 @@
 Welcome to my home page
 
 ## OS&Tools
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)]
+![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 [![](https://img.shields.io/badge/OS-centos%20Linux-33aadd?style=flat-square&logo=Centos&logoColor=ffffff)]
 [![](https://img.shields.io/badge/XiaoMi-K30%20Pro-9933cc?style=flat-square&logo=xiaomi&logoColor=996633)]
 [![](https://img.shields.io/badge/JetBrains-Pycharm-yellow?style=flat-square&logo=pycharm&logoColor=#66ff00)]
