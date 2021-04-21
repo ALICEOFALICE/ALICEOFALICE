@@ -47,7 +47,7 @@ Welcome to my home page
 <h2>最近工作状态</h2>
  
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/28a351d91c5d3671b02ab27601584b0c" target="_blank">📊 Weekly development breakdown</a>
+📊 Weekly development breakdown
 ```text
 HTML 🕓 0s █████████████████████████████████████100.0%
 ```
