@@ -1,3 +1,5 @@
+<h1>Welcome</h1>
+Welcome to my home page
 
 <table>
 <tr>
