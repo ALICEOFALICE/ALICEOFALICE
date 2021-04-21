@@ -9,9 +9,6 @@
 <img src="https://genshin-card.getloli.com/17/20934997.png"><br>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td valign="top" width="50%">
 <h2>最近在玩</h2>
