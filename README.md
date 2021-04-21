@@ -3,12 +3,12 @@ Welcome to my home page
 
 ## OS&Tools
 ![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
-[![](https://img.shields.io/badge/OS-centos%20Linux-33aadd?style=flat-square&logo=Centos&logoColor=ffffff)]
-[![](https://img.shields.io/badge/XiaoMi-K30%20Pro-9933cc?style=flat-square&logo=xiaomi&logoColor=996633)]
-[![](https://img.shields.io/badge/JetBrains-Pycharm-yellow?style=flat-square&logo=pycharm&logoColor=#66ff00)]
-[![](https://img.shields.io/badge/JetBrains-PhpStorm-9933cc?style=flat-square&logo=PhpStorm&logoColor=#66ff00)]
-[![](https://img.shields.io/badge/Microsoft-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)]
-
+![](https://img.shields.io/badge/OS-centos%20Linux-33aadd?style=flat-square&logo=Centos&logoColor=ffffff)
+![](https://img.shields.io/badge/XiaoMi-K30%20Pro-9933cc?style=flat-square&logo=xiaomi&logoColor=996633)
+![](https://img.shields.io/badge/JetBrains-Pycharm-yellow?style=flat-square&logo=pycharm&logoColor=#66ff00)
+![](https://img.shields.io/badge/JetBrains-PhpStorm-9933cc?style=flat-square&logo=PhpStorm&logoColor=#66ff00)
+![](https://img.shields.io/badge/Microsoft-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![](https://img.shields.io/badge/Blog-DEV-0000?style=flat-square&logo=Micro.blog&logoColor=#00000)(https://dev.loli.fit)
 
 ## Counter
 
