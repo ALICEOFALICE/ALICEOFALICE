@@ -3,7 +3,10 @@ name: Update steam playtime
 on:
   schedule:
     - cron: "*/5 * * * *"
-
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 jobs:
   build:
     name: Update-steam-playtime
