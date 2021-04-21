@@ -1,6 +1,6 @@
 <h2>OS&Tools<h2>
 <img src = "https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff">
-<table>
+<img src = "https://img.shields.io/badge/OS-centos%20Linux-33aadd?style=flat-square&logo=Centos&logoColor=ffffff"><table>
 <tr>
 <td valign="top" width="50%">
 <h2>原神计数器</h2>
