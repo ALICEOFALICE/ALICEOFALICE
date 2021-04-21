@@ -9,6 +9,8 @@ Welcome to my home page
 ![](https://img.shields.io/badge/JetBrains-PhpStorm-9933cc?style=flat-square&logo=PhpStorm&logoColor=#66ff00)
 ![](https://img.shields.io/badge/Microsoft-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 [![](https://img.shields.io/badge/Blog-DEV-0000?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://dev.loli.fit)
+[![](https://img.shields.io/badge/Blog-Main-0000?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://blog.loli.fit/
+)
 
 ## Counter
 
