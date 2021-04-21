@@ -47,11 +47,6 @@ Welcome to my Github page
 <h2>最近工作状态</h2>
  
 <!-- waka-box start -->
-📊 Weekly development breakdown
-```text
-HTML 🕓 0s █████████████████████████████████████100.0%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 </td>
