@@ -13,6 +13,7 @@ Welcome to my Github page
 
 [![](https://img.shields.io/badge/Blog-DEV-0000?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://dev.loli.fit)
 [![](https://img.shields.io/badge/Blog-Main-0000?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://blog.loli.fit/)
+[![](https://img.shields.io/badge/Blog-Main-red?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://www.2cy.plus/)
 
 ## Counter
 
@@ -47,11 +48,6 @@ Welcome to my Github page
 <h2>工作状态</h2>
  
 <!-- waka-box start -->
-📊 Weekly development breakdown
-```text
-HTML 🕓 0s █████████████████████████████████████100.0%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 </td>
