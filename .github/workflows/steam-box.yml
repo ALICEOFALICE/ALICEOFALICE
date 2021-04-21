@@ -30,9 +30,9 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
-          git clone https://github.com/ALICEOFALICE/waka-box-go.git
-          cd waka-box-go && go build -o waka ./cmd/box/main.go
-          mv ./waka ../ && cd .. && rm -rf waka-box-go/
+          git clone https://github.com/ALICEOFALICE/steam-box.git
+          cd steam-box && go build -o steam ./cmd/box/main.go
+          mv ./steam ../ && cd .. && rm -rf steam-box/
       - name: Commit and push
         run: |-
           ./steam
