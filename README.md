@@ -6,7 +6,7 @@ Welcome to my home page
 <img src = "https://img.shields.io/badge/OS-centos%20Linux-33aadd?style=flat-square&logo=Centos&logoColor=ffffff"><table>
 <hr>
 <tr>
-<td valign="top" width="50%">
+<td>
 <h2>原神计数器</h2>
 <img src="https://genshin-card.getloli.com/17/20934997.png" ><br>
 </td>
@@ -31,7 +31,7 @@ Welcome to my home page
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 </td>
-<td valign="top" width="50%">
+<td>
 <h2>最近工作状态</h2>
  
 <!-- waka-box start -->
