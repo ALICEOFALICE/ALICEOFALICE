@@ -1,9 +1,10 @@
 <h2>原神计数器</h2>
 <img src="https://genshin-card.getloli.com/17/20934997.png"><br>
-<h2>最近在玩</h2>
 <table>
 <tr>
 <td valign="top" width="50%">
+<h2>最近在玩</h2>
+
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
@@ -16,7 +17,8 @@
 <!-- steam-box end -->
 </td>
 <td valign="top" width="50%">
-  
+<h2>最近工作状态</h2>
+ 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">📊 Weekly development breakdown</a>
 ```text
