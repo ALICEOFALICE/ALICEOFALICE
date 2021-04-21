@@ -35,7 +35,7 @@ Welcome to my home page
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 </td>
-<td>
+<td valign="top" width="50%">
 <h2>最近工作状态</h2>
  
 <!-- waka-box start -->
