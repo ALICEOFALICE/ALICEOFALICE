@@ -10,6 +10,9 @@
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+
+</td>
+<td valign="top" width="50%">
 # 工作状态
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">📊 Weekly development breakdown</a>
