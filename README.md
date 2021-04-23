@@ -50,9 +50,9 @@ Welcome to my Github page
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-YAML   🕓 33m █████████████████████████▎         74.3%
-Python 🕓 10m ███████▌                           22.2%
-Go     🕓 1m  █▏                                  3.5%
+Go     🕓 36m ██████████████▉                    44.0%
+YAML   🕓 36m ██████████████▉                    43.9%
+Python 🕓 10m ████                               12.1%
 JSON   🕓 0s                                      0.0%
 INI    🕓 0s                                      0.0%
 ```
