@@ -18,7 +18,7 @@ jobs:
       GIST_ID: 37ea967d317d563c52aca6b03b2382a6
       GIST_BARSTYLE: EMPTY
       GIST_BARLENGTH: -1
-      GIST_TIMESTYLE: SHORT
+      GIST_TIMESTYLE: SOLIDDK
 
     steps:
       - name: Set up Go 1.x
