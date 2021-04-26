@@ -38,7 +38,7 @@ Welcome to my Github page
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 25 hrs 7 mins
 💻 Wallpaper Engine                  🕘 1 hrs 45 mins
-🎮 Deus Ex: Mankind Divided™         🕘 0 hrs 28 mins
+🎮 Deus Ex: Mankind Divided™         🕘 0 hrs 27 mins
 🎮 A Dance of Fire and Ice           🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
