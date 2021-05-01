@@ -36,7 +36,7 @@ Welcome to my Github page
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege    🕘 25 hrs 15 mins
+🔫 Tom Clancy's Rainbow Six Siege    🕘 24 hrs 50 mins
 💻 Wallpaper Engine                  🕘 1 hrs 45 mins
 🎮 Battlefield 1 ™                   🕘 0 hrs 17 mins
 ```
