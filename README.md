@@ -36,7 +36,7 @@ Welcome to my Github page
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege    🕘 24 hrs 47 mins
+🔫 Tom Clancy's Rainbow Six Siege    🕘 24 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
