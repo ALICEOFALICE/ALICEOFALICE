@@ -49,9 +49,9 @@ Welcome to my Github page
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-HTML       🕓 7 hrs 28 mins ██████████▍          52.1%
-Go         🕓 6 hrs 34 mins █████████▏           45.9%
-Python     🕓 13 mins       ▎                     1.5%
+HTML       🕓 7 hrs 42 mins █████████████        65.0%
+Go         🕓 3 hrs 51 mins ██████▌              32.6%
+Python     🕓 13 mins       ▎                     1.8%
 CSS        🕓 2 mins                              0.3%
 JavaScript 🕓 0 secs                              0.1%
 ```
