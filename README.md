@@ -38,7 +38,7 @@ Welcome to my Github page
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 1 hrs 26 mins
 🔫 Counter-Strike: Global Offensive  🕘 2 hrs 35 mins
-💻 Wallpaper Engine                  🕘 0 hrs 54 mins
+💻 Wallpaper Engine                  🕘 1 hrs 12 mins
 🎮 Battlefield 1 ™                   🕘 2 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
