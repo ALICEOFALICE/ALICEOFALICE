@@ -38,7 +38,6 @@ Welcome to my Github page
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 3 hrs 44 mins
 🎮 Battlefield 1 ™                   🕘 0 hrs 28 mins
-🎮 theHunter: Call of the Wild™      🕘 0 hrs 9 mins
 🎮 嗜血印 Bloody Spell                  🕘 1 hrs 7 mins
 🎮 MUSYNX                            🕘 0 hrs 5 mins
 ```
