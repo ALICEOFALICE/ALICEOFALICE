@@ -36,7 +36,8 @@ Welcome to my Github page
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege    🕘 3 hrs 44 mins
+🔫 Tom Clancy's Rainbow Six Siege    🕘 1 hrs 41 mins
+🔫 Counter-Strike: Global Offensive  🕘 1 hrs 37 mins
 💻 Wallpaper Engine                  🕘 0 hrs 9 mins
 🎮 嗜血印 Bloody Spell                  🕘 1 hrs 7 mins
 🎮 MUSYNX                            🕘 0 hrs 5 mins
