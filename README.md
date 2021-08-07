@@ -48,11 +48,9 @@ Welcome to my Github page
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Go         🕓 23 hrs 4 mins ███████████████████▊ 99.4%
-Python     🕓 7 mins                              0.5%
+Go         🕓 21 hrs 46 mins ██████████████████▉ 99.9%
 Git Config 🕓 1 min                               0.1%
 INI        🕓 0 secs                              0.0%
-Text       🕓 0 secs                              0.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
