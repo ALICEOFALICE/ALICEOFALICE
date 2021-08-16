@@ -47,7 +47,7 @@ Welcome to my Github page
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Go         🕓 14 hrs 7 mins ███████████████████▉ 99.6%
+Go         🕓 12 hrs 42 mins ██████████████████▉ 99.6%
 INI        🕓 3 mins                              0.4%
 GAS        🕓 0 secs                              0.0%
 SQL        🕓 0 secs                              0.0%
