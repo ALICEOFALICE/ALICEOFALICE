@@ -38,7 +38,7 @@ Welcome to my Github page
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 6 hrs 29 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
-🎮 Battlefield™ 2042 Open Beta       🕘 0 hrs 21 mins
+🎮 Battlefield™ 2042 Open Beta       🕘 1 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
