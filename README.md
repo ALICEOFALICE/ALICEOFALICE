@@ -14,7 +14,7 @@ Welcome to my Github page
 
 [![](https://img.shields.io/badge/Blog-DEV-0000?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://dev.loli.fit)
 [![](https://img.shields.io/badge/Blog-Main-0000?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://blog.loli.fit/)
-[![](https://img.shields.io/badge/Blog-info-green?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://www.2cy.plus/)
+[![](https://img.shields.io/badge/Blog-Info-green?style=flat-square&logo=Micro.blog&logoColor=#00000)](https://www.loli.plus/)
 
 ## Counter
 
