@@ -26,7 +26,7 @@ Welcome to my Github page
 <td valign="top" width="50%">
  
 ## GitHub Page
-![桜火 GitHub stats](https://github-readme-stats.vercel.app/api?username=ALICEOFALICE&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]()
 </td>
 </tr>
 <tr>
