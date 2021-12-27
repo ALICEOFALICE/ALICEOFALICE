@@ -48,6 +48,7 @@ Welcome to my Github page
 <h2>工作状态</h2>
  
 <!-- waka-box start -->
+ 坏掉啦
 📊 Weekly development breakdown
 ```text
 Still Gathering Statistics...
