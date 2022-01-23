@@ -48,14 +48,8 @@ Welcome to my Github page
 <td valign="top" width="50%">
 <h2>工作状态</h2>
  
-<!-- waka-box start -->
- 坏掉啦
-📊 Weekly development breakdown
-```text
-Still Gathering Statistics...
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+ <!-- waka-box start -->
+ <!-- waka-box end -->
 
 </td>
 </tr>
